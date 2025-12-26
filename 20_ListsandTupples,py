@@ -1,0 +1,17 @@
+# l1=[1,2,3,4,6,5,8,7,9]
+# l1.sort()
+# print(l1)
+# fruits=["oranges","apple","grapes",5,5.06,False]
+# fruits[0]="bananas"
+# print(fruits)#strings are immutable but lists are mutable
+# print(l1.reverse())
+# l1.insert(3, 3456)
+# print(l1)
+
+#Tupples
+a=(1,7,2)
+b=()
+c=(1,)
+print(a,b,c)
+
+
